@@ -76,6 +76,10 @@ And to run the main application while saving the results in a csv file, use the 
 ```
 scrapy crawl ariados -O csvfilename.csv
 ```
+Finally, to merge all the data run the data_aggregator file.
+```
+python data_aggregator.py
+```
 
 ---
 
