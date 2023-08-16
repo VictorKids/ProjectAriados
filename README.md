@@ -11,7 +11,7 @@ Project Ariados is a Python application focus on WebScraping, it utilizes the sc
 <h3 align="center">Technologies</h3>
 
 <p align="center">
-<img align="center" src="https://github.com/VictorKids/ProjectAriados/assets/48036482/967b5574-523d-49bc-9f6d-bd5789f6af49">
+<img align="center" src="https://archives.bulbagarden.net/media/upload/thumb/c/cf/Menu_HOME_0167.png/60px-Menu_HOME_0167.png">
 </p>
 
 * Python's framework Scrapy
@@ -22,7 +22,7 @@ Project Ariados is a Python application focus on WebScraping, it utilizes the sc
 <h3 align="center">Code Summary</h3>
 
 <p align="center">
-<img align="center" src="https://github.com/VictorKids/ProjectAriados/assets/48036482/967b5574-523d-49bc-9f6d-bd5789f6af49">
+<img align="center" src="https://archives.bulbagarden.net/media/upload/thumb/c/cf/Menu_HOME_0167.png/60px-Menu_HOME_0167.png">
 </p>
 
 The main code is the spider named <i>ariados</i> on th following path.
@@ -38,7 +38,7 @@ On parse_tour_page function, the data from each Pokémon is extracted and associ
 <h3 align="center">Configurations and References</h3>
 
 <p align="center">
-<img align="center" src="https://github.com/VictorKids/ProjectAriados/assets/48036482/967b5574-523d-49bc-9f6d-bd5789f6af49">
+<img align="center" src="https://archives.bulbagarden.net/media/upload/thumb/c/cf/Menu_HOME_0167.png/60px-Menu_HOME_0167.png">
 </p>
 
 Mainly I followed this video tutorial: https://www.youtube.com/watch?v=mBoX_JCKZTE&t=6569s
@@ -48,7 +48,7 @@ Mainly I followed this video tutorial: https://www.youtube.com/watch?v=mBoX_JCKZ
 <h3 align="center">How to Run</h3>
 
 <p align="center">
-<img align="center" src="https://github.com/VictorKids/ProjectAriados/assets/48036482/967b5574-523d-49bc-9f6d-bd5789f6af49">
+<img align="center" src="https://archives.bulbagarden.net/media/upload/thumb/c/cf/Menu_HOME_0167.png/60px-Menu_HOME_0167.png">
 </p>
 
 On the root page, runs the following command to activate the environment.
@@ -82,7 +82,7 @@ scrapy crawl ariados -O csvfilename.csv
 <h3 align="center">Further Features</h3>
 
 <p align="center">
-<img align="center" src="https://github.com/VictorKids/ProjectAriados/assets/48036482/967b5574-523d-49bc-9f6d-bd5789f6af49">
+<img align="center" src="https://archives.bulbagarden.net/media/upload/thumb/c/cf/Menu_HOME_0167.png/60px-Menu_HOME_0167.png">
 </p>
 
 * Create a loop only for the topcut results in order to save the data about the best resulting teams of each tournament.
@@ -93,7 +93,7 @@ scrapy crawl ariados -O csvfilename.csv
 <h3 align="center">Authors</h3>
 
 <p align="center">
-<img align="center" src="https://github.com/VictorKids/ProjectAriados/assets/48036482/967b5574-523d-49bc-9f6d-bd5789f6af49">
+<img align="center" src="https://archives.bulbagarden.net/media/upload/thumb/c/cf/Menu_HOME_0167.png/60px-Menu_HOME_0167.png">
 </p>
 
 * Myself
